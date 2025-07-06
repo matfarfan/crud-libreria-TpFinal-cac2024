@@ -1,0 +1,177 @@
+[
+    {
+        "nombre": "Cien anios de soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "descripcion": "Una obra maestra de la literatura latinoamericana que narra la historia de la familia Buendia en el pueblo ficticio de Macondo.",
+        "genero": "Realismo magico",
+        "precio": 19.99
+    },
+    {
+        "nombre": "El nombre del viento",
+        "autor": "Patrick Rothfuss",
+        "descripcion": "La primera parte de la trilogia Cronica del asesino de reyes, que narra la historia de Kvothe, un joven con un talento prodigioso.",
+        "genero": "Fantasia",
+        "precio": 18.99
+    },
+    {
+        "nombre": "Sapiens: De animales a dioses",
+        "autor": "Yuval Noah Harari",
+        "descripcion": "Un ensayo que explora la historia de la humanidad desde la Edad de Piedra hasta la era moderna.",
+        "genero": "Historia",
+        "precio": 22.5
+    },
+    {
+        "nombre": "Matar a un ruisenior",
+        "autor": "Harper Lee",
+        "descripcion": "Una novela sobre la injusticia racial en el sur de los Estados Unidos, vista a traves de los ojos de una ninia.",
+        "genero": "Drama",
+        "precio": 14.99
+    },
+    {
+        "nombre": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "descripcion": "La historia de un hidalgo que pierde la cordura y se convierte en un caballero andante.",
+        "genero": "Aventura",
+        "precio": 17.99
+    },
+    {
+        "nombre": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "descripcion": "Una novela sobre el suenio americano y la decadencia de la sociedad en la decada de 1920.",
+        "genero": "Drama",
+        "precio": 13.99
+    },
+    {
+        "nombre": "La Odisea",
+        "autor": "Homero",
+        "descripcion": "La epica historia de Odiseo y su largo viaje de regreso a casa despues de la guerra de Troya.",
+        "genero": "Epica",
+        "precio": 16.99
+    },
+    {
+        "nombre": "El Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "descripcion": "La aventura de Bilbo Bolson, un hobbit que se embarca en una busqueda para reclamar un tesoro robado.",
+        "genero": "Fantasia",
+        "precio": 14.5
+    },
+    {
+        "nombre": "Crimen y castigo",
+        "autor": "Fiodor Dostoyevski",
+        "descripcion": "Una novela sobre la culpa y el remordimiento de un hombre que comete un asesinato.",
+        "genero": "Drama",
+        "precio": 18.5
+    },
+    {
+        "nombre": "Moby Dick",
+        "autor": "Herman Melville",
+        "descripcion": "La historia del capitan Ahab y su obsesiva busqueda de la ballena blanca, Moby Dick.",
+        "genero": "Aventura",
+        "precio": 16.0
+    },
+    {
+        "nombre": "La Divina Comedia",
+        "autor": "Dante Alighieri",
+        "descripcion": "Un poema epico que describe el viaje de Dante a traves del Infierno, el Purgatorio y el Paraiso.",
+        "genero": "Epica",
+        "precio": 20.0
+    },
+    {
+        "nombre": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "descripcion": "La primera novela de la serie Harry Potter, donde un joven descubre que es un mago y asiste a una escuela de magia.",
+        "genero": "Fantasia",
+        "precio": 12.5
+    },
+    {
+        "nombre": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "descripcion": "En una sociedad distopica, una joven participa en un juego mortal para sobrevivir y proteger a su familia.",
+        "genero": "Ciencia ficcion",
+        "precio": 14.99
+    },
+    {
+        "nombre": "El senior de los anillos: La comunidad del anillo",
+        "autor": "J.R.R. Tolkien",
+        "descripcion": "La primera parte de la epica trilogia de fantasia sobre la lucha contra el mal en la Tierra Media.",
+        "genero": "Fantasia",
+        "precio": 15.99
+    },
+    {
+        "nombre": "El codigo Da Vinci",
+        "autor": "Dan Brown",
+        "descripcion": "Un thriller que combina la historia del arte, los misterios religiosos y una busqueda internacional.",
+        "genero": "Suspense",
+        "precio": 13.99
+    },
+    {
+        "nombre": "Cumbres borrascosas",
+        "autor": "Emily Bronte",
+        "descripcion": "Una tragica historia de amor y venganza en los paramos de Inglaterra.",
+        "genero": "Drama",
+        "precio": 12.99
+    },
+    {
+        "nombre": "Frankenstein",
+        "autor": "Mary Shelley",
+        "descripcion": "La historia de un cientifico que crea un ser vivo a partir de cuerpos muertos y las consecuencias de su acto.",
+        "genero": "Horror",
+        "precio": 11.99
+    },
+    {
+        "nombre": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "descripcion": "Un hombre joven mantiene su belleza mientras su retrato envejece y revela su decadencia moral.",
+        "genero": "Fantasia",
+        "precio": 13.5
+    },
+    {
+        "nombre": "Jane Eyre",
+        "autor": "Charlotte Bronte",
+        "descripcion": "La historia de una joven huerfana que encuentra el amor y enfrenta desafios en su vida.",
+        "genero": "Drama",
+        "precio": 14.0
+    },
+    {
+        "nombre": "Los miserables",
+        "autor": "Victor Hugo",
+        "descripcion": "Una novela epica sobre la lucha por la redencion y la justicia en la Francia del siglo XIX.",
+        "genero": "Drama",
+        "precio": 19.0
+    },
+    {
+        "nombre": "El Principito",
+        "autor": "Antoine de Saint-Exupery",
+        "descripcion": "Una fabula filosofica sobre un joven principe que viaja de planeta en planeta.",
+        "genero": "Fantasia",
+        "precio": 9000.0
+    },
+    {
+        "nombre": "Alicia en el pais de las maravillas",
+        "autor": "Lewis Carroll",
+        "descripcion": "Una historia de fantasia sobre una joven que cae en una madriguera de conejo y encuentra un mundo lleno de maravillas.",
+        "genero": "Fantasia",
+        "precio": 11.5
+    },
+    {
+        "nombre": "El guardian entre el centeno",
+        "autor": "J.D. Salinger",
+        "descripcion": "La historia de un adolescente rebelde que busca su identidad en Nueva York.",
+        "genero": "Drama",
+        "precio": 12.0
+    },
+    {
+        "nombre": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "descripcion": "Una novela distopica sobre un futuro donde los libros estan prohibidos y los bomberos queman cualquier libro que encuentran.",
+        "genero": "Ciencia ficcion",
+        "precio": 13.0
+    },
+    {
+        "nombre": "la casa",
+        "autor": "dasd",
+        "descripcion": "dasda",
+        "genero": "dasd",
+        "precio": 999.0
+    }
+]
